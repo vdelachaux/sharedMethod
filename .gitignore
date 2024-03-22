@@ -58,7 +58,6 @@ Thumbs.db
 
 Resources/php.ini
 
-Components/
 !Build/Components
 
 Project/Sources/Methods/Method*.4dm
